@@ -1,7 +1,12 @@
 /*top page*/
 
-ul#appsItemCategoryTag {
+.menu li ul#appsItemCategoryTag {
     display: none;
+}
+
+.hero.bordernone {
+  background: #eee;
+  text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
 
 /*item page*/
@@ -10,7 +15,7 @@ ul#appsItemCategoryTag {
     height: auto;
 }
 
-ul.sharebtn {
+.sharebtn {
     display: none;
 }
 
