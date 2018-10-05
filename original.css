@@ -4,7 +4,7 @@
     display: none;
 }
 
-.hero a, .hero p, .hero.sansserif h2, .widget h3 {
+#MainVisual .hero p, #MainVisual .hero h2, .flexslider .slides .first .hero p, .flexslider .slides .first .hero h2 {
   text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
 
