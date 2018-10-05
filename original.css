@@ -4,8 +4,7 @@
     display: none;
 }
 
-.hero h2, .hero p {
-  background: #eee;
+.hero a, .hero p, .hero.sansserif h2, .widget h3 {
   text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
 
