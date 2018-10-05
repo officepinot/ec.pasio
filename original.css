@@ -12,6 +12,12 @@ body* {
   text-shadow: 2px 4px 3px rgba(0,0,0,0.3)!important;
 }
 
+/*side bar*/
+
+.sidenav {
+    width: 300px;
+}
+
 /*item page*/
 
 #item_page_wrap #bx-pager {
