@@ -1,3 +1,16 @@
+/*top page*/
+
+ul#appsItemCategoryTag {
+    display: none;
+}
+
+/*item page*/
+
 #item_page_wrap #bx-pager {
     height: auto;
 }
+
+ul.sharebtn {
+    display: none;
+}
+
