@@ -1,6 +1,6 @@
 /*top page*/
 
-.menu li ul#appsItemCategoryTag li a {
+.menu li ul#appsItemCategoryTag {
     display: none;
 }
 
