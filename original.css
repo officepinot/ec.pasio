@@ -9,7 +9,11 @@ body* {
 }
 
 #MainVisual .hero p, #MainVisual .hero h2, .flexslider .slides .first .hero p, .flexslider .slides .first .hero h2 {
-  text-shadow: 2px 4px 3px rgba(0,0,0,0.3)!important;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3)!important;
+}
+
+.flex-control-nav {
+     margin-bottom: 15px;
 }
 
 /*side bar*/
